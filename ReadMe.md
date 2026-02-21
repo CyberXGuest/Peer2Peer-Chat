@@ -22,8 +22,8 @@ Enter username: bob
 # On Machine B (Bob):
 
 Start listening mode
-./p2p_chat.py listen 5000
-# Enter username: bob
+./p2p_chat.py listen 5000 
+Enter username: bob
 
 Bob connects to Alice:
 
