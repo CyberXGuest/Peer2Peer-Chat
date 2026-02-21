@@ -11,7 +11,7 @@ p2p_chat.py - Peer-to-peer chat tool for Kali Linux
 
 Start listening mode
 ./p2p_chat.py listen 5000
-# Enter username: alice
+Enter username: alice
 
 # On Machine B (Bob):
 
